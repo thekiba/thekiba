@@ -19,11 +19,9 @@ I'm an InfoSec and Art enthusiast and developing in video and sound processing.
 
 In Developing I'm very interested in Functional Reactive Programming, Agile Software Development, Development Operations, Fault Tolerance/High-Availability Distributed Systems.
 
-I also like to talk about the latest research and web technologies.
+I also like to talk about the latest research and web technologies and share my rich experience with everyone around.
 
 And I enjoy making beautiful pictures, videos, and scripts.
-
-I also like to share my rich experience with everyone around.
 
 
 ## Languages and Tools
