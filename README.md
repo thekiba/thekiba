@@ -11,7 +11,7 @@ Check my twitter at [https://twitter.com/thekiba_io](https://twitter.com/thekiba
 
 ## About Me
 
-I'm **Andrew Grekov**, a **Google Developer Expert** living in **Moscow, RU**.
+I'm **Andrew Grekov**, a **Google Developer Expert** living in **Hokkaido**.
 
 I have more than 15 years of experience in related job positions.
 
